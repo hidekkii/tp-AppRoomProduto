@@ -1,8 +1,8 @@
 # AppRoomProduto
 
-> **Aluno(a):** _preencher nome_  
-> **RA:** _preencher_  
-> **Disciplina / Professor(a):** _preencher_
+> **Aluno(a)**:renan hideki e bruno reis 
+> **RA:** 240823 / 240017  
+> **Disciplina / Professor(a):** ALESSANDRO FERREIRA em DDM
 
 ## 1. Descrição
 
